@@ -6,5 +6,8 @@
 ### 2. Express.js
  - 
 
-### 3. NEST
- - 
+### 3. NestJS
+ - 백엔드 프레임워크
+ - $ npm i -g @nestjs/cli
+ - $ nest new project-name
+
